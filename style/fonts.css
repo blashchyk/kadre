@@ -1,0 +1,58 @@
+/*  OpenSans*/
+ @font-face {
+    font-family: OpenSans-Bold; 
+    src: url(../font/Open_Sans/OpenSans-Bold.ttf); 
+   } 
+   @font-face {
+    font-family: OpenSans-BoldItalic; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-BoldItalic.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: OpenSans-ExtraBold; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-ExtraBold.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: OpenSans-ExtraBoldItalic; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-ExtraBoldItalic.ttf); /* Путь к файлу со шрифтом */
+   }
+  @font-face {
+    font-family: OpenSans-LightItalic; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-LightItalic.ttf); /* Путь к файлу со шрифтом */
+   }
+    @font-face {
+    font-family: OpenSans-Regular; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: OpenSans-SemiBold; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-SemiBold.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: OpenSans-SemiBoldItalic; /* Имя шрифта */
+    src: url(../font/Open_Sans/OpenSans-SemiBoldItalic.ttf); /* Путь к файлу со шрифтом */
+   }
+/*Roboto_Slag*/
+    @font-face {
+    font-family: RobotoSlab-Bold; /* Имя шрифта */
+    src: url(../font/Roboto_Slab/RobotoSlab-Bold.ttf); /* Путь к файлу со шрифтом */
+   }
+     @font-face {
+    font-family: RobotoSlab-Light; /* Имя шрифта */
+    src: url(../font/Roboto_Slab/RobotoSlab-Light.ttf); /* Путь к файлу со шрифтом */
+   }
+      @font-face {
+    font-family: RobotoSlab-Regular; /* Имя шрифта */
+    src: url(../font/Roboto_Slab/RobotoSlab-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+	    @font-face {
+    font-family: RobotoSlab-Thin; /* Имя шрифта */
+    src: url(../font/Roboto_Slab/RobotoSlab-Thin.ttf); /* Путь к файлу со шрифтом */
+   }
+
+
+      @font-face {
+    font-family: MyriadPro-Regular; /* Имя шрифта */
+    src: url(../font/MyriadPro/MyriadPro-Regular.otf); /* Путь к файлу со шрифтом */
+   }
+
+   

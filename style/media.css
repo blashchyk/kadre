@@ -1,0 +1,966 @@
+@media (min-width:1280px){
+    .reviews h2{
+        margin-top: 0;
+    }
+    .map .info{
+        padding: 35px;
+        margin-top: 25px;
+    }
+}
+@media (min-width: 800px) and (max-width: 1279px) {
+    .address1, .address2{
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .main_adress{
+        width: 78%;
+    }
+    .close{
+        margin-right: 25px;
+    }
+    .phone{
+        float: none;
+        margin-top: 5px;
+    }
+    .content {
+        margin-top: -23px;
+    }
+    .navmenu ul li{
+        padding: 5px 2px;
+    }
+    .navmenu {
+        margin-top: 5px;
+    }
+    .contacts{
+        width: 440px;
+        padding: 20px 35px;
+        height: 400px;
+    }
+    .contacts h1{
+        font-size: 25px;
+    }
+    .contacts p{
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+    .banner2 {
+    
+        background-position: 60% top;
+        background-size: 160%;
+        height: 270px;
+    }
+    .banner2 h1 {
+        margin-top: 25px;
+        font-size: 35px;
+    }
+    .banner2 p {
+        font-size: 18px;
+    }
+    .blogs{
+        padding-top: 20px;
+    }
+    .blog h3{
+        font-size: 14px;
+    }
+    .blog {
+        height: 410px;
+    }
+    .blog p{
+        font-size: 13px;
+    }
+    .blog div {
+        padding: 5px 15px;
+    }
+    .nav{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .logo {
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .social{
+        float: none;
+        margin-top: 5px;
+    }
+    .social img {
+        margin-right: 10px;
+    }
+    .policy {
+        margin-bottom: 0px;
+    }
+    .footer p {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    h2{
+        font-size: 18px;
+        margin-top: 5px;
+    }
+    .article p {
+        font-size: 16px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .interesting_articles h4 {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .interesting_articles{
+        padding: 10px 0;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .contact img{
+        max-width: 100%;
+        height:auto;
+    }
+    .banner3 h1{
+        font-size: 30px;
+    }
+    .banner3 p{
+        font-size: 14px;
+    }
+    .banner3{
+        background-position: 35%;
+    }
+    .slider_main img{
+        height: 116px;
+    }
+    .rate .title_head {
+    padding: 1px 5px;
+    }
+    .rate .title_head p {
+        font-size: 10px;
+    }
+    .rate .title_head h1 {
+        font-size: 25px;
+    }
+    .title_head{
+        height: 110px;
+        padding: 1px 10px;
+    }
+    .rate .title_info{
+        padding: 20px 15px;
+        font-size: 12px;
+    }
+    .title_content button{
+        font-size: 12px;
+    }
+    .title {
+        margin-bottom: 20px;
+    }
+    .title_head p {
+        font-size: 16px;
+    }
+    .title_info {
+        font-size: 14px;
+    }
+    .job h3 {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .job h1 {
+        font-size: 30px;
+    }
+    .job h5 {
+        font-size: 16px;
+    }
+    .job .works {
+        margin-bottom: 10px;
+    }
+    .reviews h2 {
+        margin-top: 25px;
+    }
+    .reviews p {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .reviews h4 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .reviews a {
+        font-size: 16px;
+    }
+    .test {
+        width: 77%;
+    }
+    .detal {
+        width: 76%;
+    }
+    .about_us {
+        width: 96%;
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+    .about_us p {
+        font-size: 16px;
+    }
+    .commands p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .info p {
+        font-size: 16px;
+    }
+
+}
+@media (min-width:768px) and (max-width: 799px){
+    .address1, .address2 {
+        font-size: 13px;
+    }
+    .address1 div div {
+        margin-left: 5px;
+    }
+    .address2 img{
+        margin-right: 25px;
+    }
+    .phone{
+        float: none;
+    }
+    .navmenu ul{
+        font-size: 19px;
+    }
+    .navmenu {
+        margin-top: 0px;
+    }
+    .content {
+        margin-top: -5px;
+    }
+    
+
+
+
+    .address1, .address2{
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .main_adress{
+        width: 78%;
+    }
+    .close{
+        margin-right: 25px;
+    }
+    .phone{
+        float: none;
+        margin-top: 5px;
+    }
+    .content {
+        margin-top: -23px;
+    }
+    .navmenu ul li{
+        padding: 5px 2px;
+    }
+    .navmenu {
+        margin-top: 5px;
+    }
+    .contacts{
+        width: 440px;
+        padding: 20px 35px;
+        height: 400px;
+    }
+    .contacts h1{
+        font-size: 25px;
+    }
+    .contacts p{
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+    .banner2 {
+    
+        background-position: 60% top;
+        background-size: 160%;
+        height: 270px;
+    }
+    .banner2 h1 {
+        margin-top: 25px;
+        font-size: 35px;
+    }
+    .banner2 p {
+        font-size: 18px;
+    }
+    .blogs{
+        padding-top: 20px;
+    }
+    .blog h3{
+        font-size: 14px;
+    }
+    .blog {
+        height: 410px;
+    }
+    .blog p{
+        font-size: 13px;
+    }
+    .blog div {
+        padding: 5px 15px;
+    }
+    .nav{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .logo {
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .social{
+        float: none;
+        margin-top: 5px;
+    }
+    .social img {
+        margin-right: 10px;
+    }
+    .policy {
+        margin-bottom: 0px;
+    }
+    .footer p {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    h2{
+        font-size: 18px;
+        margin-top: 5px;
+    }
+    .article p {
+        font-size: 16px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .interesting_articles h4 {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .interesting_articles{
+        padding: 10px 0;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .contact img{
+        max-width: 100%;
+        height:auto;
+    }
+    .banner3 h1{
+        font-size: 30px;
+    }
+    .banner3 p{
+        font-size: 14px;
+    }
+    .banner3{
+        background-position: 35%;
+    }
+    .slider_main img{
+        height: 116px;
+    }
+    .rate .title_head {
+    padding: 1px 5px;
+    }
+    .rate .title_head p {
+        font-size: 10px;
+    }
+    .rate .title_head h1 {
+        font-size: 25px;
+    }
+    .title_head{
+        height: 110px;
+    }
+    .rate .title_info{
+        padding: 20px 15px;
+        font-size: 12px;
+    }
+    .title_content button{
+        font-size: 12px;
+    }
+    .title {
+        margin-bottom: 20px;
+    }
+    .job h3 {
+
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .job h1 {
+        font-size: 36px;
+        margin: 0px 0;
+    }
+    .job h5 {
+
+        font-size: 16px;
+    }
+    .job .works {
+        margin-bottom: 10px;
+    }
+    .reviews h2 {
+        margin-top: 25px;
+    }
+    .reviews p {
+        margin-top: 5px;
+    }
+    .test {
+        width: 76%;
+    }
+    .detal {
+        width: 76%;
+    }
+    .about_us {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+    .commands p {
+        font-size: 16px;
+    }
+    .commands {
+        padding-bottom: 0px;
+    }
+    .map .info {
+
+        padding: 20px;
+        margin-top: 25px;
+    }
+    .info p {
+        font-size: 16px;
+    }
+    .info h6 {
+        font-size: 16px;
+    }
+    .banner {
+        height: 300px;
+        background-position: 50%;
+    }
+    .banner h1 {
+        margin-top: 30px;
+    }
+    .title_head {
+        padding: 1px 5px;
+    }
+    .title_head h2 {
+        font-size: 17px;
+    }
+    .title_head p {
+        font-size: 17px;
+    }
+    .title_info {
+        font-size: 13px;
+    }
+    .about_us p {
+        font-size: 16px;
+    }
+}
+@media (min-width:360px) and (max-width: 767px){
+    .address1, .address2{
+        margin-top: 0px;
+    }
+    .address2{
+        width: 90%;
+     
+    }
+    .close {
+        margin-right: -6px;
+    }
+    .logo{
+        margin-top: 0px;
+    }
+    .phone {
+        float: right;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .social {
+        float: left;
+        margin-top: 5px;
+    }
+    .navmenu {
+        margin-top: 0px;
+    }
+    .navmenu ul {
+        list-style-type: none;
+        font-size: 20px;
+        color: #000000;
+        display: block;
+        justify-content: normal;
+        text-align: right;
+        text-align-last: right;
+        background: #fff;
+        z-index: 50;
+        position: absolute;
+        width: 100%;
+        display: none;
+        top: -9px;
+                
+    }
+    .navmenu ul li{
+        text-align: right;
+        display: block;
+    }
+    .navmenu i.fa-align-justify{
+       font-size: 26px;
+       margin-top: -12px;
+       position: absolute;
+        cursor: pointer; 
+    }
+    .submenu{
+        z-index: 100;
+        top: -9px;
+    }
+    .banner2 h1 {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+    .banner2 p {
+        font-size: 19px;
+    }
+    .banner2 {
+        height: 290px;
+        background-position: 64%;
+    }
+    .contacts {
+        width: 265px;
+        padding: 0px 10px;
+        border-radius: 10px;
+        height: 340px;
+    }
+    .contacts h1 {
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+    .contacts p {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    .contacts input{
+        font-size: 13px;
+    }
+    .contacts button{
+        font-size: 18px;
+    }
+    .blogs {
+        padding-top: 10px;
+    }
+    .blog div {
+        padding: 10px 20px;
+    }
+    .blog{
+        height: 485px;
+    }
+    .nav {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .social img:first-child{
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .footer p {
+        margin-top: 5px;
+        margin-bottom: -43px;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .article p {
+        font-size: 16px;
+    }
+    .articles h3 {
+        margin-top: 15px;
+    }
+    .interesting_articles{
+        padding: 10px 0;
+    }
+    h1{
+        font-size: 25px;
+    }
+    .contact img{
+        height: 330px;
+    }
+    .banner3 h1{
+        font-size: 20px;
+    }
+    .banner3 p {
+        font-size: 13px;
+    }
+    .banner3 button{
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .banner3 {
+
+        background-position: 40%;
+    }
+    .slider_main {
+        margin-top: 5px;
+    }
+    .slider_main img {
+        max-width: 100%;
+        height: auto;
+    }
+    .main_display{
+        display: none;
+    }
+    .slider_main .slider_button {
+        margin-top: 5px;
+    }
+    h2{
+        margin-top: 7px;
+        margin-bottom: 0px;
+    }
+    h1{
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    .title_head{
+        height: 100px;
+    }
+    .title {
+        margin-bottom: 20px;
+    }
+    .slider_main2 .slider_button{
+        top: -20px;
+    }
+    .banner{
+        background-size: cover;
+        height: 250px;
+        background-position: 50%;
+    }
+    .banner h1{
+        font-size: 30px;
+        margin-top: 60px;
+    }
+    .title_head p {
+        font-size: 15px;
+    }
+    .slider h1{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .slider p{
+        font-size: 12px;
+        margin-top: 0px;
+    }
+    .slider button{
+        font-size: 15px;
+    }
+    .slider{
+        height: 300px;
+        background-position: 56%;
+        background-size: cover;
+    }
+    .slider button{
+        height: 40px;
+        margin-top: 5px;
+    }
+    .slider_button{
+        margin-top: 15px;
+    }
+    .photo_menu ul{
+        display: block;
+    }
+    .photo_menu ul li{
+        display: block;
+    }
+    .photoshoot {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .amount{
+        margin-right: 70px;
+    }
+    .job h3{
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .job h1{
+        font-size: 20px;
+    }
+    .job .works {
+        margin-bottom: 20px;
+    }
+    .reviews p {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .reviews h4{
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .reviews a{
+        font-size: 15px;
+    }
+    .detals2 ~ .test {
+        width: 96%;
+    }
+    .detal {
+        top: 366px;
+    }
+    .test{
+        width: 96%;
+    }
+    .about_us {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: 15px;
+    }
+    .about_us p{
+        font-size: 16px;
+    }
+    .commands p{
+        font-size: 16px;
+    }
+    .partners .slider_button {
+        margin-top: 5px;
+    }
+    .info p {
+        font-size: 14px;
+    }
+    .social img {
+        margin-right: 0px;
+    }
+}
+@media (min-width:320px) and (max-width: 359px){
+    .address1, .address2{
+        margin-top: 0px;
+    }
+    .address1 div div {
+        margin-left: 10px;
+    }
+    .address2{
+        width: 90%;
+     
+    }
+    .close {
+        margin-right: -2px;
+    }
+    .logo{
+        margin-top: 0px;
+    }
+    .phone {
+        float: right;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .social {
+        float: left;
+        margin-top: 5px;
+    }
+    .navmenu {
+        margin-top: 0px;
+    }
+    .navmenu ul {
+        list-style-type: none;
+        font-size: 20px;
+        color: #000000;
+        display: block;
+        justify-content: normal;
+        text-align: right;
+        text-align-last: right;
+        background: #fff;
+        z-index: 50;
+        position: absolute;
+        width: 100%;
+        display: none;
+        top: -9px;
+                
+    }
+    .navmenu ul li{
+        text-align: right;
+        display: block;
+    }
+    .navmenu i.fa-align-justify{
+       font-size: 26px;
+       margin-top: -12px;
+       position: absolute;
+        cursor: pointer; 
+    }
+    .submenu{
+        z-index: 100;
+        top: -9px;
+    }
+    .banner2 h1 {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+    .banner2 p {
+        font-size: 14px;
+    }
+    .banner2 {
+        height: 290px;
+        background-position: 64%;
+    }
+    .contacts {
+        width: 265px;
+        padding: 0px 10px;
+        border-radius: 10px;
+        height: 340px;
+    }
+    .contacts h1 {
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+    .contacts p {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    .contacts input{
+        font-size: 13px;
+    }
+    .contacts button{
+        font-size: 18px;
+    }
+    .blogs {
+        padding-top: 10px;
+    }
+    .blog div {
+        padding: 10px 20px;
+    }
+    .blog{
+        height: 485px;
+    }
+    .nav {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .social img:first-child{
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .footer p {
+        margin-top: 5px;
+        margin-bottom: -43px;
+    }
+    .fa-align-justify{
+        display: block;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .article p {
+        font-size: 16px;
+    }
+    .articles h3 {
+        margin-top: 15px;
+    }
+    .interesting_articles{
+        padding: 10px 0;
+    }
+    h1{
+        font-size: 25px;
+    }
+    .contact img{
+        height: 300px;
+    }
+    .banner3 h1{
+        font-size: 20px;
+    }
+    .banner3 p {
+        font-size: 13px;
+    }
+    .banner3 button{
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .banner3 {
+
+        background-position: 40%;
+    }
+    .slider_main {
+        margin-top: 5px;
+    }
+    .slider_main img {
+        max-width: 100%;
+        height: auto;
+    }
+    .main_display{
+        display: none;
+    }
+    .slider_main .slider_button {
+        margin-top: 5px;
+    }
+    h2{
+        margin-top: 7px;
+        margin-bottom: 0px;
+    }
+    h1{
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    .title_head{
+        height: 100px;
+    }
+    .title {
+        margin-bottom: 20px;
+    }
+    .slider_main2 .slider_button{
+        top: -20px;
+    }
+    .banner{
+        background-size: cover;
+        height: 250px;
+        background-position: 50%;
+    }
+    .banner h1{
+        font-size: 30px;
+        margin-top: 60px;
+    }
+    .title_head p {
+        font-size: 15px;
+    }
+    .slider h1{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .slider p{
+        font-size: 12px;
+        margin-top: 0px;
+    }
+    .slider button{
+        font-size: 15px;
+    }
+    .slider{
+        height: 300px;
+        background-position: 56%;
+        background-size: cover;
+    }
+    .slider button{
+        height: 40px;
+        margin-top: 5px;
+    }
+    .slider_button{
+        margin-top: 15px;
+    }
+    .photo_menu ul{
+        display: block;
+    }
+    .photo_menu ul li{
+        display: block;
+    }
+    .photoshoot {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .amount{
+        margin-right: 70px;
+    }
+    .job h3{
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .job h1{
+        font-size: 20px;
+    }
+    .job .works {
+        margin-bottom: 20px;
+    }
+    .title_content button{
+        font-size: 13px;
+    }
+}
